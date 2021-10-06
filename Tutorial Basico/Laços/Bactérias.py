@@ -1,13 +1,13 @@
 from math import log10
 
-b = 0
-k = 0
+b = 0 #"Tamanho" da maior quantidade de bactérias
+k = 0 #Tipo de bactéria "dona" de b
 for x in range(int(input())):
-    d, c = map(int, input().split())
+    d, c = map(int, input().split()) #Obtém os valores de entrada
     z = c*log10(d)
-    if z > b:
-        b = z
-        k = x
+    if z > b: #Se este tipo é maior do que a atual...
+        b = z #b agora é este tipo de bactéria
+        k = x #k assume o novo tipo de bactéria 
         
 print(k)
 
