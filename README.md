@@ -43,7 +43,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Frota de Táxi (em breve)
 - Sedex (em breve)
 - Carnaval (em breve)
-- Álbum de Fotos (em breve)
+- [Álbum de Fotos](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Desvios%20condicionais/%C3%81lbum%20de%20Fotos.py)
 
 <a style="display: none" id="lacos"></a>
 ### 3. Laços
