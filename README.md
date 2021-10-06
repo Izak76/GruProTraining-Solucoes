@@ -5,15 +5,15 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 
 ## Tutorial básico
 >  **Sumário**
-> <p>[1. Expressões aritméticas](#exp_ari)</p>
-> <p>[2. Desvios condicionais](#desv_cond)</p>
-> <p>[3. Laços](#lacos)</p>
-> <p>[4. Vetores](#vetores)</p>
-> <p>[5. Strings](#strings)</p>
-> <p>[6. Matrizes](#matrizes)</p>
-> <p>[7. Ordenação](#ordenacao)</p>
-> <p>[8. Busca](#busca)</p>
-> <p>[9. Recursão](#recursao)</p>
+> [1. Expressões aritméticas](#exp_ari)
+> [2. Desvios condicionais](#desv_cond)
+> [3. Laços](#lacos)
+> [4. Vetores](#vetores)
+> [5. Strings](#strings)
+> [6. Matrizes](#matrizes)
+> [7. Ordenação](#ordenacao)
+> [8. Busca](#busca)
+> [9. Recursão](#recursao)
 
 <a style="display: none" id="exp_arit"></a>
 ### 1. Expressões aritméticas
