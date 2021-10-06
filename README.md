@@ -5,15 +5,15 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 
 ## Tutorial básico
 >  **Sumário**
-> [1. Expressões aritméticas](#expressões-aritméticas)
-> [2. Desvios condicionais](#desvios-condicionais)
-> [3. Laços](#laços)
-> [4. Vetores](#vetores)
-> [5. Strings](#strings)
-> [6. Matrizes](#matrizes)
-> [7. Ordenação](#ordenação)
-> [8. Busca](#busca)
-> [9. Recursão](#recursão)
+> [1. Expressões aritméticas](#1. Expressões aritméticas)
+> [2. Desvios condicionais](#2. Desvios condicionais)
+> [3. Laços](#3. Laços)
+> [4. Vetores](#4. Vetores)
+> [5. Strings](#5. Strings)
+> [6. Matrizes](#6. Matrizes)
+> [7. Ordenação](#7. Ordenação)
+> [8. Busca](#8. Busca)
+> [9. Recursão](#9. Recursão)
 
 ### 1. Expressões aritméticas
 - [Pneu](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Pneu.py)
