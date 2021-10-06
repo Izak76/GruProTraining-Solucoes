@@ -5,9 +5,9 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 
 ## Tutorial básico
 >  **Sumário**
-> [1. Expressões aritméticas](#1. Expressões aritméticas)
-> [2. Desvios condicionais](#2. Desvios condicionais)
-> [3. Laços](#3. Laços)
+> [1. Expressões aritméticas](#1.-Expressões-aritméticas)
+> [2. Desvios condicionais](#2.-Desvios-condicionais)
+> [3. Laços](#3.-Laços)
 > [4. Vetores](#4. Vetores)
 > [5. Strings](#5. Strings)
 > [6. Matrizes](#6. Matrizes)
