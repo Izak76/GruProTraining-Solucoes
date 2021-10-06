@@ -7,7 +7,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 >  **Sumário**
 > [1. Expressões aritméticas](#1.-Expressões-aritméticas)
 > [2. Desvios condicionais](#2.-Desvios-condicionais)
-> [3. Laços](#3.-Laços)
+> [3. Laços](#lacos)
 > [4. Vetores](#4. Vetores)
 > [5. Strings](#5. Strings)
 > [6. Matrizes](#6. Matrizes)
@@ -44,6 +44,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Álbum de Fotos (em breve)
 
 ### 3. Laços
+<a style="display: none" id="lacos">
 - Soma  (em breve)
 - [Quermesse](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Quermesse.py)
 - Cofrinhos da Vó Vitória  (em breve)
