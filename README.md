@@ -4,16 +4,16 @@ Algumas soluções apresentam comentários explicando toda a lógica por trás d
 Por enquanto o repositório está incompleto. A medida em que resolvo os desafios, posto-os aqui.
 
 ## Tutorial básico
->  **Sumário**
-> [1. Expressões aritméticas](#exp_ari)
-> [2. Desvios condicionais](#desv_cond)
-> [3. Laços](#lacos)
-> [4. Vetores](#vetores)
-> [5. Strings](#strings)
-> [6. Matrizes](#matrizes)
-> [7. Ordenação](#ordenacao)
-> [8. Busca](#busca)
-> [9. Recursão](#recursao)
+>  **Sumário**  
+> [1. Expressões aritméticas](#exp_ari)  
+> [2. Desvios condicionais](#desv_cond)  
+> [3. Laços](#lacos)  
+> [4. Vetores](#vetores)  
+> [5. Strings](#strings)  
+> [6. Matrizes](#matrizes)  
+> [7. Ordenação](#ordenacao)  
+> [8. Busca](#busca)  
+> [9. Recursão](#recursao)  
 
 <a style="display: none" id="exp_arit"></a>
 ### 1. Expressões aritméticas
