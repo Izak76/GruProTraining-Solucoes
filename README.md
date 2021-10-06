@@ -43,8 +43,9 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Carnaval (em breve)
 - Álbum de Fotos (em breve)
 
-### 3. Laços
 <a style="display: none" id="lacos">
+
+### 3. Laços
 - Soma  (em breve)
 - [Quermesse](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Quermesse.py)
 - Cofrinhos da Vó Vitória  (em breve)
@@ -65,6 +66,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Insensibilidade  (em breve)
 - Bactérias  (em breve)
 - [João e o Pé de Feijão](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Jo%C3%A3o%20e%20o%20P%C3%A9%20de%20Feij%C3%A3o.py)
+
 ### 4. Vetores
 - [Estágio](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Est%C3%A1gio.py)
 - Guerra por Território (em breve)
