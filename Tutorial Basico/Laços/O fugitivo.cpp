@@ -3,8 +3,7 @@ OBS: Este algoritmo está escrito em C++ porquê a versão em Python
 (de onde este algoritmo foi "traduzido" estava dando problema de
 "Tempo limite excedido".
 
-Para ver a versão em Python, acesse:
-https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/O fugitivo.py
+Para ver a versão em Python, acesse: https://bit.ly/3DjtzDH
 */
 
 #include <iostream>
