@@ -1,4 +1,4 @@
-//Este algoritmo é uma "tradução" da versão em python. Ela está disponível em: https://bit.ly/3BoRcKr
+//Este algoritmo é uma "tradução" da versão em python. Ela está disponível em: https://bit.ly/3DkNjXx
 /*Por mais estranho que pareça, mesmo que ambas as versões (Python e C++)
 funcionem praticamente da mesma forma, somente a versão em C++ (esta aqui)
 é aceita no sistema de correção. A versão em Python dá "Resposta errada".
