@@ -2,7 +2,7 @@ input()
 n = tuple(map(int, input().split()))
 
 maior, cmaior = 0, 0
-for x in n:
+for x in set(n):
     ct = n.count(x)
     if ct > cmaior:
         maior = x
