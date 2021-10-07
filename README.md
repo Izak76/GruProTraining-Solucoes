@@ -72,7 +72,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 ### 4. Vetores
 - [Estágio](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Est%C3%A1gio.py)
 - Guerra por Território (em breve)
-- Notas (em breve)
+- [Notas](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Notas.cpp)
 - Aeroporto (em breve)
 - Fila (em breve)
 - Pulo do sapo (em breve)
