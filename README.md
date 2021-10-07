@@ -1,6 +1,6 @@
 # Soluções dos treinamentos do GruPro
-Este repositório apresenta minhas soluções dos desafios de treinamento presentes no site do [GruPro](http://wiki.dcc.ufba.br/GRUPROtmp/TrainingIntroduction). 
-Algumas soluções apresentam comentários explicando toda a lógica por trás do algoritmo.
+Este repositório apresenta minhas soluções dos desafios de treinamento presentes no site do [GruPro](http://wiki.dcc.ufba.br/GRUPROtmp/TrainingIntroduction).  
+Algumas soluções apresentam comentários explicando toda a lógica por trás do algoritmo.  
 Por enquanto o repositório está incompleto. A medida em que resolvo os desafios, posto-os aqui.
 
 ## Tutorial básico
@@ -55,16 +55,16 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - [Bits Trocados](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Bits%20Trocados.py)
 - [Primo](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Primo.py)
 - [Bafo](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Bafo.py)
-- Garçom (em breve)
+- [Garçom](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Gar%C3%A7om.py)
 - [Tacógrafo](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Tac%C3%B3grafo.py)
-- Telescópio (em breve)
+- [Telescópio](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Telesc%C3%B3pio.py)
 - Saldo de gols (em breve)
 - [O Tabuleiro Esburacado](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/O%20Tabuleiro%20Esburacado.py)
-- Compra de Dadinhos (em breve)
-- Ajude Aparecido (em breve)
-- O fugitivo (em breve)
+- [Compra de Dadinhos](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Compra%20de%20Dadinhos.py)
+- [Ajude Aparecido](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Ajude%20Aparecido.py)
+- [O fugitivo](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/O%20fugitivo.cpp)
 - [Poodle](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Poodle.py)
-- Insensibilidade (em breve)
+- [Insensibilidade](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Insensibilidade.py)
 - [Bactérias](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Bact%C3%A9rias.py)
 - [João e o Pé de Feijão](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Jo%C3%A3o%20e%20o%20P%C3%A9%20de%20Feij%C3%A3o.py)
 
