@@ -25,7 +25,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - [Cometa](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Cometa.py)
 - [Distância de Manhattan](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Dist%C3%A2ncia%20de%20Manhattan.py)
 - [Quadrados](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Quadrados.py)
-- Tapetes  (em breve)
+- [Tapetes](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Tapetes.py)
 
 ### 2. Desvios condicionais
 - Flíper (em breve)
