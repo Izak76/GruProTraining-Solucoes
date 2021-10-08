@@ -15,7 +15,6 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 > [8. Busca](#8-busca)  
 > [9. Recursão](#9-recursão)  
 
-<a style="display: none" id="exp_arit"></a>
 ### 1. Expressões aritméticas
 - [Pneu](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Pneu.py)
 - [Corrida](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Corrida.py)
@@ -28,7 +27,6 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - [Quadrados](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Quadrados.py)
 - Tapetes  (em breve)
 
-<a style="display: none" id="desv_cond"></a>
 ### 2. Desvios condicionais
 - Flíper (em breve)
 - Campeonato (em breve)
@@ -45,7 +43,6 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Carnaval (em breve)
 - [Álbum de Fotos](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Desvios%20condicionais/%C3%81lbum%20de%20Fotos.py)
 
-<a style="display: none" id="lacos"></a>
 ### 3. Laços
 - [Soma](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Soma.py)
 - [Quermesse](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Quermesse.py)
@@ -68,7 +65,6 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - [Bactérias](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Bact%C3%A9rias.py)
 - [João e o Pé de Feijão](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Jo%C3%A3o%20e%20o%20P%C3%A9%20de%20Feij%C3%A3o.py)
 
-<a style="display: none" id="vetores"></a>
 ### 4. Vetores
 - [Estágio](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Est%C3%A1gio.py)
 - Guerra por Território (em breve)
@@ -80,7 +76,6 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Número de Envelopes (em breve)
 - Campo minado (em breve)
 
-<a style="display: none" id="strings"></a>
 ### 5. Strings
 - Vestibular (em breve)
 - [Telefone](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Telefone.py)
@@ -94,7 +89,6 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Par ou ímpar (em breve)
 - Palavras Ordenadas (em breve)
 
-<a style="display: none" id="matrizes"></a>
 ### 6. Matrizes
 - Chuva (em breve)
 - Campo de Minhocas (em breve)
@@ -104,7 +98,6 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Sudoku (em breve)
 - Logotipo publicitário na TV da Vovó (em breve)
 
-<a style="display: none" id="ordenacao"></a>
 ### 7. Ordenação
 - Fliperama (em breve)
 - Corrida (em breve)
@@ -114,14 +107,12 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Supermercado (em breve)
 - Balé \*\*\*desafio\*\*\* (em breve)
 
-<a style="display: none" id="busca"></a>
 ### 8. Busca
 - Tiro ao Alvo (em breve)
 - Carteiro (em breve)
 - Número Proibido (em breve)
 - Binary search (em breve)
 
-<a style="display: none" id="recursao"></a>
 ### 9. Recursão
 - Torres de Hanói (em breve)
 - f91 (em breve)
