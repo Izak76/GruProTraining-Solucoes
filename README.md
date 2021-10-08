@@ -9,11 +9,11 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 > [2. Desvios condicionais](#2-desvios-condicionais)  
 > [3. Laços](#3-laços)  
 > [4. Vetores](#4-vetores)  
-> [5. Strings](#5-stringss)  
-> [6. Matrizes](#matrizes)  
-> [7. Ordenação](#ordenacao)  
-> [8. Busca](#busca)  
-> [9. Recursão](#recursao)  
+> [5. Strings](#5-strings)  
+> [6. Matrizes](#6-matrizes)  
+> [7. Ordenação](#7-ordenação)  
+> [8. Busca](#8-busca)  
+> [9. Recursão](#9-recursão)  
 
 <a style="display: none" id="exp_arit"></a>
 ### 1. Expressões aritméticas
