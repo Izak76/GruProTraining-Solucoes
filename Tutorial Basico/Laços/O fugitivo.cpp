@@ -1,4 +1,4 @@
-/*
+/* 
 OBS: Este algoritmo está escrito em C++ porquê a versão em Python
 (de onde este algoritmo foi "traduzido") estava dando problema de
 "Tempo limite excedido".
