@@ -5,11 +5,11 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 
 ## Tutorial básico
 >  **Sumário**  
-> [1. Expressões aritméticas](#exp_ari)  
-> [2. Desvios condicionais](#desv_cond)  
-> [3. Laços](#lacos)  
-> [4. Vetores](#vetores)  
-> [5. Strings](#strings)  
+> [1. Expressões aritméticas](#1-expressões-aritméticas)  
+> [2. Desvios condicionais](#2-desvios-condicionais)  
+> [3. Laços](#3-laços)  
+> [4. Vetores](#4-vetores)  
+> [5. Strings](#5-stringss)  
 > [6. Matrizes](#matrizes)  
 > [7. Ordenação](#ordenacao)  
 > [8. Busca](#busca)  
@@ -18,14 +18,14 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 <a style="display: none" id="exp_arit"></a>
 ### 1. Expressões aritméticas
 - [Pneu](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Pneu.py)
-- Corrida (em breve)
-- Busca na Internet  (em breve)
-- Tomadas  (em breve)
-- Transporte  (em breve)
-- Pedágio  (em breve)
-- Cometa  (em breve)
-- Distância de Manhattan  (em breve)
-- Quadrados  (em breve)
+- [Corrida](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Corrida.py)
+- [Busca na Internet](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Busca%20na%20Internet.py)
+- [Tomadas](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Tomadas.py)
+- [Transporte](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Transporte.py)
+- [Pedágio](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Ped%C3%A1gio.py)
+- [Cometa](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Cometa.py)
+- [Distância de Manhattan](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Dist%C3%A2ncia%20de%20Manhattan.py)
+- [Quadrados](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Quadrados.py)
 - Tapetes  (em breve)
 
 <a style="display: none" id="desv_cond"></a>
