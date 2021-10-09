@@ -82,11 +82,11 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Língua do P (em breve)
 - Letras (em breve)
 - Você pode dizer 11 (em breve)
-- Quem vai ser reprovado (em breve)
-- Proteja sua senha (em breve)
+- [Quem vai ser reprovado](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Quem%20vai%20ser%20reprovado.py)
+- [Proteja sua senha](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Proteja%20sua%20senha.py)
 - Auto Estrada (em breve)
 - Senha da Tia (em breve)
-- Par ou ímpar (em breve)
+- [Par ou ímpar](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Par%20ou%20%C3%ADmpar.py)
 - Palavras Ordenadas (em breve)
 
 ### 6. Matrizes
@@ -103,7 +103,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Corrida (em breve)
 - Chamada (em breve)
 - Tetris (em breve)
-- Olimpíadas (em breve)
+- [Olimpíadas](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Ordena%C3%A7%C3%A3o/Olimp%C3%ADadas.py)
 - Supermercado (em breve)
 - Balé \*\*\*desafio\*\*\* (em breve)
 
