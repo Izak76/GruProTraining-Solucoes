@@ -28,7 +28,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - [Tapetes](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Express%C3%B5es%20aritm%C3%A9ticas/Tapetes.py)
 
 ### 2. Desvios condicionais
-- Flíper (em breve)
+- [Flíper](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Desvios%20condicionais/Fl%C3%ADper.py)
 - Campeonato (em breve)
 - Vice-campeão (em breve)
 - Gangorra (em breve)
