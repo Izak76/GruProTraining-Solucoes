@@ -29,7 +29,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 
 ### 2. Desvios condicionais
 - [Flíper](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Desvios%20condicionais/Fl%C3%ADper.py)
-- Campeonato (em breve)
+- [Campeonato](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Desvios%20condicionais/Campeonato.py)
 - Vice-campeão (em breve)
 - Gangorra (em breve)
 - Receita de Bolo (em breve)
