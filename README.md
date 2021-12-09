@@ -38,9 +38,9 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - [Cartas](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Desvios%20condicionais/Cartas.py)
 - [Detectando Colisões](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Desvios%20condicionais/Detectando%20Colis%C3%B5es.py)
 - [Notas da prova](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Desvios%20condicionais/Notas%20da%20prova.py)
-- Frota de Táxi (em breve)
-- Sedex (em breve)
-- Carnaval (em breve)
+- [Frota de Táxi](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Desvios%20condicionais/Frota%20de%20T%C3%A1xi.py)
+- [Sedex](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Desvios%20condicionais/Sedex.py)
+- [Carnaval](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Desvios%20condicionais/Carnaval.py)
 - [Álbum de Fotos](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Desvios%20condicionais/%C3%81lbum%20de%20Fotos.py)
 
 ### 3. Laços
