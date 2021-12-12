@@ -67,14 +67,14 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 
 ### 4. Vetores
 - [Estágio](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Est%C3%A1gio.py)
-- Guerra por Território (em breve)
+- [Guerra por Território](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Guerra%20por%20Territ%C3%B3rio.py)
 - [Notas](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Notas.cpp)
-- Aeroporto (em breve)
-- Fila (em breve)
-- Pulo do sapo (em breve)
-- Vivo ou Morto (em breve)
-- Número de Envelopes (em breve)
-- Campo minado (em breve)
+- [Aeroporto](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Aeroporto.py)
+- [Fila](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Fila.py)
+- [Pulo do sapo](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Pulo%20do%20sapo.py)
+- [Vivo ou Morto](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Vivo%20ou%20Morto.py)
+- [Número de Envelopes](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/N%C3%BAmero%20de%20Envelopes.py)
+- [Campo minado](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Campo%20minado.py)
 
 ### 5. Strings
 - Vestibular (em breve)
