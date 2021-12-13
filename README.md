@@ -55,7 +55,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - [Garçom](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Gar%C3%A7om.py)
 - [Tacógrafo](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Tac%C3%B3grafo.py)
 - [Telescópio](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Telesc%C3%B3pio.py)
-- Saldo de gols (em breve)
+- [Saldo de gols](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Saldo%20de%20gols.py)
 - [O Tabuleiro Esburacado](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/O%20Tabuleiro%20Esburacado.py)
 - [Compra de Dadinhos](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Compra%20de%20Dadinhos.py)
 - [Ajude Aparecido](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/La%C3%A7os/Ajude%20Aparecido.py)
