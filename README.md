@@ -79,15 +79,15 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 ### 5. Strings
 - [Vestibular](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Vestibular.py)
 - [Telefone](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Telefone.py)
-- Língua do P (em breve)
-- Letras (em breve)
-- Você pode dizer 11 (em breve)
+- [Língua do P](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/L%C3%ADngua%20do%20P.py)
+- [Letras](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Letras.py)
+- [Você pode dizer 11](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Voc%C3%AA%20pode%20dizer%2011.py)
 - [Quem vai ser reprovado](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Quem%20vai%20ser%20reprovado.py)
 - [Proteja sua senha](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Proteja%20sua%20senha.py)
-- Auto Estrada (em breve)
-- Senha da Tia (em breve)
+- [Auto Estrada](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Auto%20Estrada.py)
+- [Senha da Tia](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Senha%20da%20Tia.py)
 - [Par ou ímpar](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Par%20ou%20%C3%ADmpar.py)
-- Palavras Ordenadas (em breve)
+- [Palavras Ordenadas](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Palavras%20Ordenadas.py)
 
 ### 6. Matrizes
 - Chuva (em breve)
