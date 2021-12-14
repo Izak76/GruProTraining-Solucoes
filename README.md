@@ -77,7 +77,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - [Campo minado](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Campo%20minado.py)
 
 ### 5. Strings
-- Vestibular (em breve)
+- [Vestibular](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Vestibular.py)
 - [Telefone](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Telefone.py)
 - Língua do P (em breve)
 - Letras (em breve)
