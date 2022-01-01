@@ -6,6 +6,6 @@ A = len(tuple(filter(lambda s: s.isupper(), senha)))
 K = len(tuple(filter(lambda s: s.isdigit(), senha)))
 
 if all([len(senha) >= n, M >= m, A >= a, K >= k]):
-	print("Ok =/")
+    print("Ok =/")
 else:
-	print("Ufa :)")
+    print("Ufa :)")
