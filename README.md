@@ -90,12 +90,12 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - [Palavras Ordenadas](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Strings/Palavras%20Ordenadas.py)
 
 ### 6. Matrizes
-- Chuva (em breve)
-- Campo de Minhocas (em breve)
-- Costa (em breve)
-- PacMan (em breve)
+- [Chuva](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Matrizes/Chuva.py)
+- [Campo de Minhocas](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Matrizes/Campo%20de%20Minhocas.py)
+- [Costa](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Matrizes/Costa.py)
+- [PacMan](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Matrizes/PacMan.py)
 - Robô colecionador (em breve)
-- Sudoku (em breve)
+- [Sudoku](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Matrizes/Sudoku.py)
 - Logotipo publicitário na TV da Vovó (em breve)
 
 ### 7. Ordenação
