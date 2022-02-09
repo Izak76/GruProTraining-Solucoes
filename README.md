@@ -99,12 +99,12 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Logotipo publicitário na TV da Vovó (em breve)
 
 ### 7. Ordenação
-- Fliperama (em breve)
-- Corrida (em breve)
-- Chamada (em breve)
-- Tetris (em breve)
+- [Fliperama](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Ordena%C3%A7%C3%A3o/Fliperama.py)
+- [Corrida](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Ordena%C3%A7%C3%A3o/Corrida.py)
+- [Chamada](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Ordena%C3%A7%C3%A3o/Chamada.py)
+- [Tetris](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Ordena%C3%A7%C3%A3o/Tetris.py)
 - [Olimpíadas](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Ordena%C3%A7%C3%A3o/Olimp%C3%ADadas.py)
-- Supermercado (em breve)
+- [Supermercado](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Ordena%C3%A7%C3%A3o/Supermercado.py)
 - Balé \*\*\*desafio\*\*\* (em breve)
 
 ### 8. Busca
