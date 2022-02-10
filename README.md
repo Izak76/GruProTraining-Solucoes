@@ -109,7 +109,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 
 ### 8. Busca
 - [Tiro ao Alvo](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Busca/Tiro%20ao%20Alvo.py)
-- Carteiro (em breve)
+- [Carteiro](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Busca/Carteiro.py)
 - Número Proibido (em breve)
 - Binary search (em breve)
 
