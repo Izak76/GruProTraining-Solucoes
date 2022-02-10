@@ -108,7 +108,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Balé \*\*\*desafio\*\*\* (em breve)
 
 ### 8. Busca
-- Tiro ao Alvo (em breve)
+- [Tiro ao Alvo](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Busca/Tiro%20ao%20Alvo.py)
 - Carteiro (em breve)
 - Número Proibido (em breve)
 - Binary search (em breve)
