@@ -114,6 +114,6 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - Binary search (em breve)
 
 ### 9. Recursão
-- Torres de Hanói (em breve)
-- f91 (em breve)
-- Rumo aos 9s (em breve)
+- [Torres de Hanói](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Recurs%C3%A3o/Torres%20de%20Han%C3%B3i.py)
+- [f91](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Recurs%C3%A3o/f91.py)
+- [Rumo aos 9s](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Recurs%C3%A3o/Rumo%20aos%209s.py)
