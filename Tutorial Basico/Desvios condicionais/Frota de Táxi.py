@@ -4,6 +4,6 @@ a = ca/ra
 g = cg/rg
 
 if a < g:
-	print("A")
+    print("A")
 else:
-	print("G")
+    print("G")

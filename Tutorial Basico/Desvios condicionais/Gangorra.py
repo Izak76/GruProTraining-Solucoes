@@ -5,8 +5,8 @@ a2 = p2*c2
 s = 0
 
 if a1 < a2:
-	s = 1
+    s = 1
 elif a1 > a2:
-	s = -1
+    s = -1
 
 print(s)
