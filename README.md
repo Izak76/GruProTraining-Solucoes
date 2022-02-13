@@ -94,7 +94,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 - [Campo de Minhocas](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Matrizes/Campo%20de%20Minhocas.py)
 - [Costa](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Matrizes/Costa.py)
 - [PacMan](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Matrizes/PacMan.py)
-- Robô colecionador (em breve)
+- [Robô colecionador](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Matrizes/Rob%C3%B4%20colecionador.py)
 - [Sudoku](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Matrizes/Sudoku.py)
 - Logotipo publicitário na TV da Vovó (em breve)
 
