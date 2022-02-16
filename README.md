@@ -68,7 +68,7 @@ Por enquanto o repositório está incompleto. A medida em que resolvo os desafio
 ### 4. Vetores
 - [Estágio](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Est%C3%A1gio.py)
 - [Guerra por Território](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Guerra%20por%20Territ%C3%B3rio.py)
-- [Notas](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Notas.cpp)
+- [Notas](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Notas.py)
 - [Aeroporto](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Aeroporto.py)
 - [Fila](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Fila.py)
 - [Pulo do sapo](https://github.com/Izak76/GruProTraining-Solucoes/blob/main/Tutorial%20Basico/Vetores/Pulo%20do%20sapo.py)
